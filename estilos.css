@@ -14,15 +14,15 @@ img:hover {
     transition: 1.3s;
 }
 
-/* h5 {
+h5 {
     color: white;
     font-size: 5rem;
 }
 
-p {
+.p-index {
     color: white;
     font-size: 2.5rem;
-} */
+}
 
 .icon {
     display: flex;
@@ -35,10 +35,50 @@ h3 {
 }
 
 .icon {
-    margin-top: 65px;
+    margin-top: 90px;
 }
 
 /* h2 {
     margin: 50px 20px;
     color: white;
 } */
+
+.titulo-nosotros {
+    color: white;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.main-nosotros {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.foot-nosotros {
+    margin-top: 150px;
+}
+
+main.contacto {
+    margin-left: 250px;
+}
+
+.form-contacto {
+    margin-top: 70px;
+}
+
+.form-select {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   margin-top: 150px;
+}
+
+.quote-nosotros {
+    color: white;
+}
+
+.form-floating {
+    width: 90%;
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
